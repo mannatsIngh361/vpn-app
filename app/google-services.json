@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492606122437",
+    "project_id": "codestudio-8dce5",
+    "storage_bucket": "codestudio-8dce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492606122437:android:f699c37898fce60bfb83ac",
+        "android_client_info": {
+          "package_name": "com.codestudioapps.lionvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492606122437-8d5vk2fbo3c62ro7sofl500o5sji18fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqVTrOwdffHiLYhY7FnJLsVX4XkG-g4Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492606122437-8d5vk2fbo3c62ro7sofl500o5sji18fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
